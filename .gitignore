@@ -1,1 +1,4 @@
 example_submission.csv
+__pycache__
+*checkpoint*
+project_description.md
